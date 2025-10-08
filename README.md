@@ -9,11 +9,9 @@ Hey 👋 I’m a Full Stack Developer who loves turning big ideas into beautiful
 I work across web, mobile, and GenAI, mixing clean front‑end design with solid back‑end architecture.
 I’ve built everything from fast Next.js dashboards to mobile apps and AI‑powered chatbots.<br/>
 Oh, and yes — caffeine ☕ + lo‑fi 🎧 are my secret weapons.
-</p>
-
+</b></p>
 
 ## Core Skills 🛠️
-
 <table>
   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/><br/>TypeScript</td>
@@ -25,7 +23,7 @@ Oh, and yes — caffeine ☕ + lo‑fi 🎧 are my secret weapons.
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=angular" height="48" alt="Angular"/><br/>Angular</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/><br/>Node.js</td>
   </tr>
-    <tr>
+  <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express"/><br/>Express</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nestjs" height="48" alt="NestJS"/><br/>NestJS</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/><br/>Python</td>
@@ -37,12 +35,12 @@ Oh, and yes — caffeine ☕ + lo‑fi 🎧 are my secret weapons.
   </tr>
   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter"/><br/>Flutter</td>
-<td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/><br/>Java</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/><br/>Java</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin"/><br/>Kotlin</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=swift" height="48" alt="Swift"/><br/>Swift</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=dart" height="48" alt="Dart"/><br/>Dart</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".NET"/><br/>.NET</td>
-  <td align="center" width="120"><img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/><br/>PHP</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/><br/>PHP</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel"/><br/>Laravel</td>
   </tr>
   <tr>
@@ -54,7 +52,6 @@ Oh, and yes — caffeine ☕ + lo‑fi 🎧 are my secret weapons.
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="SQLite"/><br/>SQLite</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase"/><br/>Firebase</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase"/><br/>Supabase</td>
-    
   </tr>
   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=elasticsearch" height="48" alt="Elasticsearch"/><br/>Elasticsearch</td>
@@ -66,8 +63,4 @@ Oh, and yes — caffeine ☕ + lo‑fi 🎧 are my secret weapons.
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=jenkins" height="48" alt="Jenkins"/><br/>Jenkins</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=terraform" height="48" alt="Terraform"/><br/>Terraform</td>
   </tr>
-  <tr>
-    
-  </tr>
-  </b>
 </table>

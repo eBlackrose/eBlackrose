@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/eBlackrose">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+AI%20&%20ML%20Engineer;Senior%20Full%20Stack%20Developer;Web%20|%20Mobile%20|%20GenAI;10%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=2563EB&vCenter=true&size=45%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20AI%20Engineer;Full%20Stack%20Developer;Web%20|%20Mobile%20|%20GenAI;10%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=2563EB&vCenter=true&size=45%22">
   </a>
 </p>
 <h2 align="center"></h2>

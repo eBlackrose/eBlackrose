@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/SkyCaptainess">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Web%20|%20Mobile%20|%20GenAI;7%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=2563EB&vCenter=true&size=45%22">
+  <a href="https://github.com/eBlackrose">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+AI%2Engineer;Senior%20Full%20Stack%20Developer;Web%20|%20Mobile%20|%20GenAI;10%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=2563EB&vCenter=true&size=45%22">
   </a>
 </p>
 <h2 align="center"></h2>

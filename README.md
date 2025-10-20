@@ -4,12 +4,12 @@
   </a>
 </p>
 <h2 align="center"></h2>
-<p><b>
-Hey 👋 I’m an AI Engineer & Full-Stack Developer who loves building products that think.  
-I design and deploy intelligent systems across web, mobile, and cloud — blending deep learning with scalable full-stack architecture.  
-My projects span LLM-powered assistants, computer vision analytics, and real-time apps built with React, Next.js, Node, and PyTorch.  
-I believe great AI isn’t just smart — it should feel seamless, human, and beautifully built.  
-Fueled by caffeine ☕, lo-fi beats 🎧, and pickup basketball 🏀 — I code, learn, and create what’s next.  
+<p>
+Hey 👋 I'm an <b>AI Engineer</b> & <b>Full-Stack Developer</b> who loves building products that think.<br/>
+I design and deploy intelligent systems across web, mobile, and cloud — blending deep learning with scalable full-stack architecture.</br>
+My projects span LLM-powered assistants, computer vision analytics, and real-time apps built with React, Next.js, Node, and PyTorch.</br>
+I believe great AI isn't just smart — it should feel seamless, human, and beautifully built.</br>
+Fueled by caffeine ☕, lo-fi beats 🎧, and pickup basketball 🏀 — I code, learn, and create what's next.</br>
 </b></p>
 
 ## Core Skills 🛠️

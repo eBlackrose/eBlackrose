@@ -5,10 +5,10 @@
 </p>
 <h2 align="center"></h2>
 <p><b>
-Hey 👋 I’m a Full Stack Developer who loves turning big ideas into beautiful, scalable apps.
-I work across web, mobile, and GenAI, mixing clean front‑end design with solid back‑end architecture.
-I’ve built everything from fast Next.js dashboards to mobile apps and AI‑powered chatbots.<br/>
-Oh, and yes — caffeine ☕ + lo‑fi 🎧 are my secret weapons.
+Hey 👋 I’m an AI Engineer & Full-Stack Developer who loves building smart products that scale.  
+I design across the stack — React, Next.js, Node, Python, and cloud AI — connecting clean interfaces to powerful models.  
+Whether it’s an LLM-powered chatbot or a cross-platform mobile app, I turn prototypes into production.  
+Fueled by caffeine ☕, lo-fi 🎧, and a passion for creating what’s next.
 </b></p>
 
 ## Core Skills 🛠️

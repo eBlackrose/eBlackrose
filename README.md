@@ -5,10 +5,11 @@
 </p>
 <h2 align="center"></h2>
 <p><b>
-Hey 👋 I’m an AI Engineer & Full-Stack Developer who loves building smart products that scale.  
-I design across the stack — React, Next.js, Node, Python, and cloud AI — connecting clean interfaces to powerful models.  
-Whether it’s an LLM-powered chatbot or a cross-platform mobile app, I turn prototypes into production.  
-Fueled by caffeine ☕, lo-fi 🎧, and a passion for creating what’s next.
+Hey 👋 I’m an AI Engineer & Full-Stack Developer who loves building products that think.  
+I design and deploy intelligent systems across web, mobile, and cloud — blending deep learning with scalable full-stack architecture.  
+My projects span LLM-powered assistants, computer vision analytics, and real-time apps built with React, Next.js, Node, and PyTorch.  
+I believe great AI isn’t just smart — it should feel seamless, human, and beautifully built.  
+Fueled by caffeine ☕, lo-fi beats 🎧, and pickup basketball 🏀 — I code, learn, and create what’s next.  
 </b></p>
 
 ## Core Skills 🛠️

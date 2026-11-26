@@ -6,7 +6,7 @@
   </picture>
 </a>
 
-[![Total Stars](https://img.shields.io/github/stars/eBlackrose?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=GitHub%20total%20stars&logo=github)](https://github.com/eBlackrose?tab=repositories) [![Followers](https://img.shields.io/github/followers/eBlackrose?style=flat&label=Followers&logo=github)](https://github.com/eBlackrose?tab=followers)
+[![Total Stars](https://img.shields.io/github/stars/eBlackrose?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=GitHub%20total%20stars&logo=github)](https://github.com/eBlackrose?tab=repositories) [![Followers](./badge-followers.svg)](https://github.com/eBlackrose?tab=followers)
 <!-- Enable once you are ranked on committers.top (United States):
 [![committers.top badge](https://user-badge.committers.top/united_states_private/eBlackrose.svg)](https://user-badge.committers.top/united_states_private/eBlackrose)
 -->
@@ -16,6 +16,9 @@
 - Web, Mobile, GenAI, LLM agents, Computer Vision, Cloud, Everything to solve real-world problems
 - org: [@CLEVIO-LLC](https://github.com/CLEVIO-LLC)
 - [blog](https://ronniekim.io) · [Weekly Report](https://eblackrose.github.io/weekly-report/) · [LinkedIn](https://linkedin.com/in/imronnie)
+
+<!-- featured:start -->
+<!-- featured:end -->
 
 ## Core Skills 🛠️
 <table>

@@ -1,16 +1,21 @@
-<p align="center">
-  <a href="https://github.com/eBlackrose">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20AI%20Engineer;Full%20Stack%20Developer;Web%20|%20Mobile%20|%20GenAI;10%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=100&color=2563EB&vCenter=true&size=45%22">
-  </a>
-</p>
-<h2 align="center"></h2>
-<p>
-Hey 👋 I'm an <b>AI Engineer</b> & <b>Full-Stack Developer</b> who loves building products that think.<br/>
-I design and deploy intelligent systems across web, mobile, and cloud — blending deep learning with scalable full-stack architecture.</br>
-My projects span LLM-powered assistants, computer vision analytics, and real-time apps built with React, Next.js, Node, and PyTorch.</br>
-I believe great AI isn't just smart — it should feel seamless, human, and beautifully built.</br>
-Fueled by caffeine ☕, lo-fi beats 🎧, and pickup basketball 🏀 — I code, learn, and create what's next.</br>
-</b></p>
+<a href="https://github.com/eBlackrose/weekly-report">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://eblackrose.github.io/weekly-report/card-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://eblackrose.github.io/weekly-report/card.svg" />
+    <img alt="Weekly Report" src="https://eblackrose.github.io/weekly-report/card.svg" height="48" />
+  </picture>
+</a>
+
+[![Total Stars](https://img.shields.io/github/stars/eBlackrose?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=GitHub%20total%20stars&logo=github)](https://github.com/eBlackrose?tab=repositories) [![Followers](https://img.shields.io/github/followers/eBlackrose?style=flat&label=Followers&logo=github)](https://github.com/eBlackrose?tab=followers)
+<!-- Enable once you are ranked on committers.top (United States):
+[![committers.top badge](https://user-badge.committers.top/united_states_private/eBlackrose.svg)](https://user-badge.committers.top/united_states_private/eBlackrose)
+-->
+
+- A senior AI engineer & full stack developer
+- TypeScript, Python, Kotlin, Dart, Swift, Rust
+- Web, Mobile, GenAI, LLM agents, Computer Vision, Cloud, Everything to solve real-world problems
+- org: [@CLEVIO-LLC](https://github.com/CLEVIO-LLC)
+- [blog](https://ronniekim.io) · [Weekly Report](https://eblackrose.github.io/weekly-report/) · [LinkedIn](https://linkedin.com/in/imronnie)
 
 ## Core Skills 🛠️
 <table>

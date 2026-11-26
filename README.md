@@ -18,6 +18,7 @@
 - [blog](https://ronniekim.io) · [Weekly Report](https://eblackrose.github.io/weekly-report/) · [LinkedIn](https://linkedin.com/in/imronnie)
 
 <!-- featured:start -->
+
 <!-- featured:end -->
 
 ## Core Skills 🛠️

@@ -1,8 +1,24 @@
 {
   "repos": [
-    { "name": "Flutter-Whatsapp-bot", "description": "Flutter & Dart WhatsApp bot · based on whatsapp_bot_flutter" },
-    { "name": "Claude-Think", "description": "Let Claude think deeply first · based on Thinking-Claude" },
-    { "name": "ReactNative-Chatgpt", "description": "ChatGPT for React Native · based on react-native-chatgpt" },
-    { "name": "Open-Cuak", "description": "Open computer-use AI agent platform · based on Open CUAK" }
+    {
+      "name": "Flutter-Whatsapp-bot",
+      "description": "Flutter & Dart WhatsApp bot · based on whatsapp_bot_flutter",
+      "thumbnail": "assets/thumbs/Flutter-Whatsapp-bot.svg"
+    },
+    {
+      "name": "Claude-Think",
+      "description": "Let Claude think deeply first · based on Thinking-Claude",
+      "thumbnail": "assets/thumbs/Claude-Think.svg"
+    },
+    {
+      "name": "ReactNative-Chatgpt",
+      "description": "ChatGPT for React Native · based on react-native-chatgpt",
+      "thumbnail": "assets/thumbs/ReactNative-Chatgpt.svg"
+    },
+    {
+      "name": "Open-Cuak",
+      "description": "Open computer-use AI agent platform · based on Open CUAK",
+      "thumbnail": "assets/thumbs/Open-Cuak.svg"
+    }
   ]
 }

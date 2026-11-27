@@ -11,14 +11,12 @@
 [![committers.top badge](https://user-badge.committers.top/united_states_private/eBlackrose.svg)](https://user-badge.committers.top/united_states_private/eBlackrose)
 -->
 
-- A senior AI engineer & full stack developer
-- TypeScript, Python, Kotlin, Dart, Swift, Rust
-- Web, Mobile, GenAI, LLM agents, Computer Vision, Cloud, Everything to solve real-world problems
-- org: [@CLEVIO-LLC](https://github.com/CLEVIO-LLC)
-- [blog](https://ronniekim.io) · [Weekly Report](https://eblackrose.github.io/weekly-report/) · [LinkedIn](https://linkedin.com/in/imronnie)
-
-> [!NOTE]
-> This is just my personal account, so you'll find some personal projects and experiments here.
+- A senior AI engineer & full stack developer, deep in LLMs and AI agents
+- Python, JavaScript, TypeScript, Java, C, C++, Kotlin, Dart, Swift, Rust
+- AI agents & multi-agent systems, LLM apps, RAG, tool calling & MCP, fine-tuning, evals, Computer Vision
+- Web, API, Mobile, Cloud, Everything to solve real-world problems
+- org: [@CLEVIO-LLC](https://github.com/CLEVIO-LLC) · this is my personal account, so it's mostly side projects & experiments
+- [portfolio](https://ronniekim.io) · [Weekly Report](https://eblackrose.github.io/weekly-report/) · [LinkedIn](https://linkedin.com/in/imronnie) · [Telegram](https://t.me/eblackrose) · Discord: `@eblackrose`
 
 <!-- featured:start -->
 ## Featured Projects

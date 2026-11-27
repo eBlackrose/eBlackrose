@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="352" viewBox="0 0 720 352">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a1610"/>
+      <stop offset="1" stop-color="#140b08"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#d97757" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#d97757" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="720" height="352" fill="url(#bg)"/>
+  <rect width="720" height="352" fill="url(#glow)"/>
+
+  <!-- thought chain -->
+  <g transform="translate(580,176)" fill="none" stroke="#d97757" stroke-linecap="round">
+    <circle r="88" stroke-opacity="0.18" stroke-width="2"/>
+    <circle r="62" stroke-opacity="0.3" stroke-width="2" stroke-dasharray="4 8"/>
+    <!-- sparkle -->
+    <g stroke="none" fill="#f0a58a">
+      <path d="M0 -40 C4 -12 12 -4 40 0 C12 4 4 12 0 40 C-4 12 -12 4 -40 0 C-12 -4 -4 -12 0 -40 Z"/>
+    </g>
+    <circle cx="-88" cy="0" r="6" fill="#d97757" stroke="none"/>
+    <circle cx="62" cy="-62" r="5" fill="#f0a58a" stroke="none" fill-opacity="0.8"/>
+    <circle cx="44" cy="76" r="4" fill="#f0a58a" stroke="none" fill-opacity="0.6"/>
+  </g>
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" fill="#f0a58a" fill-opacity="0.35" font-size="13">
+    <text x="420" y="60">&lt;thinking&gt;</text>
+    <text x="440" y="306">&lt;/thinking&gt;</text>
+  </g>
+
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+    <text x="48" y="78" font-size="15" font-weight="600" fill="#d97757" letter-spacing="3">PROMPT ENGINEERING</text>
+    <text x="48" y="138" font-size="44" font-weight="800" fill="#ffffff">Thinking</text>
+    <text x="48" y="186" font-size="44" font-weight="800" fill="#f0a58a">Claude</text>
+    <text x="48" y="226" font-size="18" fill="#e0cfc8">Let Claude reason deeply before it answers</text>
+    <g font-size="14" font-weight="600">
+      <rect x="48" y="258" width="72" height="30" rx="15" fill="#ffffff" fill-opacity="0.07" stroke="#d97757" stroke-opacity="0.55"/>
+      <text x="84" y="278" text-anchor="middle" fill="#f6e7e1">Claude</text>
+      <rect x="130" y="258" width="110" height="30" rx="15" fill="#ffffff" fill-opacity="0.07" stroke="#d97757" stroke-opacity="0.55"/>
+      <text x="185" y="278" text-anchor="middle" fill="#f6e7e1">Reasoning</text>
+      <rect x="250" y="258" width="150" height="30" rx="15" fill="#ffffff" fill-opacity="0.07" stroke="#d97757" stroke-opacity="0.55"/>
+      <text x="325" y="278" text-anchor="middle" fill="#f6e7e1">Chrome Extension</text>
+    </g>
+  </g>
+</svg>

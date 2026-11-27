@@ -11,12 +11,13 @@
 [![committers.top badge](https://user-badge.committers.top/united_states_private/eBlackrose.svg)](https://user-badge.committers.top/united_states_private/eBlackrose)
 -->
 
+Hi, I'm Ronnie 👋 This is my personal account, home to my side projects and experiments.
+
 - A senior AI engineer & full stack developer, deep in LLMs and AI agents
 - Python, JavaScript, TypeScript, Java, C, C++, Kotlin, Dart, Swift, Rust
 - AI agents & multi-agent systems, LLM apps, RAG, tool calling & MCP, fine-tuning, evals, Computer Vision
 - Web, API, Mobile, Cloud, Everything to solve real-world problems
-- org: [@CLEVIO-LLC](https://github.com/CLEVIO-LLC) · this is my personal account, so it's mostly side projects & experiments
-- [portfolio](https://ronniekim.io) · [Weekly Report](https://eblackrose.github.io/weekly-report/) · [LinkedIn](https://linkedin.com/in/imronnie) · [Telegram](https://t.me/eblackrose) · Discord: `@eblackrose`
+- [portfolio](https://ronniekim.io) · [weekly report](https://eblackrose.github.io/weekly-report/) · [linkedin](https://linkedin.com/in/imronnie) · [telegram](https://t.me/eblackrose) · [discord](https://discord.com/app "Discord: @eblackrose")
 
 <!-- featured:start -->
 ## Featured Projects

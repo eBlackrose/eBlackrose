@@ -21,5 +21,40 @@
 > This is just my personal account, so you'll find some personal projects and experiments here.
 
 <!-- featured:start -->
+## Featured Projects
 
+<div align="center">
+  <a href="https://github.com/eBlackrose/Flutter-Whatsapp-bot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./showcase-Flutter-Whatsapp-bot-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./showcase-Flutter-Whatsapp-bot.svg" />
+      <img alt="Flutter-Whatsapp-bot" src="./showcase-Flutter-Whatsapp-bot.svg" />
+    </picture>
+  </a>
+  <a href="https://github.com/eBlackrose/Claude-Think">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./showcase-Claude-Think-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./showcase-Claude-Think.svg" />
+      <img alt="Claude-Think" src="./showcase-Claude-Think.svg" />
+    </picture>
+  </a>
+  <a href="https://github.com/eBlackrose/ReactNative-Chatgpt">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./showcase-ReactNative-Chatgpt-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./showcase-ReactNative-Chatgpt.svg" />
+      <img alt="ReactNative-Chatgpt" src="./showcase-ReactNative-Chatgpt.svg" />
+    </picture>
+  </a>
+  <a href="https://github.com/eBlackrose/Open-Cuak">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./showcase-Open-Cuak-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./showcase-Open-Cuak.svg" />
+      <img alt="Open-Cuak" src="./showcase-Open-Cuak.svg" />
+    </picture>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/eBlackrose?tab=repositories"><sub>See more →</sub></a>
+</div>
 <!-- featured:end -->

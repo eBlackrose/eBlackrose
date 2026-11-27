@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="352" viewBox="0 0 720 352">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1442"/>
+      <stop offset="1" stop-color="#0b0820"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#7c6cff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#7c6cff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0 L0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="720" height="352" fill="url(#bg)"/>
+  <rect width="720" height="352" fill="url(#grid)"/>
+  <rect width="720" height="352" fill="url(#glow)"/>
+
+  <!-- browser window driven by an agent -->
+  <g transform="translate(468,78)">
+    <rect width="214" height="168" rx="12" fill="#14102e" stroke="#7c6cff" stroke-opacity="0.6" stroke-width="2"/>
+    <rect width="214" height="28" rx="12" fill="#221b4d"/>
+    <rect y="16" width="214" height="12" fill="#221b4d"/>
+    <circle cx="16" cy="14" r="4.5" fill="#ff5f57"/>
+    <circle cx="31" cy="14" r="4.5" fill="#febc2e"/>
+    <circle cx="46" cy="14" r="4.5" fill="#28c840"/>
+    <rect x="62" y="8" width="136" height="12" rx="6" fill="#14102e"/>
+    <rect x="18" y="46" width="120" height="10" rx="5" fill="#3a3270"/>
+    <rect x="18" y="64" width="84" height="10" rx="5" fill="#3a3270" fill-opacity="0.7"/>
+    <rect x="18" y="92" width="100" height="30" rx="8" fill="#7c6cff"/>
+    <rect x="34" y="103" width="68" height="8" rx="4" fill="#ffffff" fill-opacity="0.8"/>
+    <rect x="18" y="136" width="178" height="12" rx="6" fill="#3a3270" fill-opacity="0.5"/>
+    <rect x="16" y="90" width="104" height="34" rx="10" fill="none" stroke="#c9c2ff" stroke-width="2" stroke-dasharray="5 4"/>
+    <!-- cursor -->
+    <path d="M104 108 L104 136 L111 129 L117 142 L122 140 L116 127 L126 127 Z" fill="#ffffff" stroke="#0b0820" stroke-width="1.5"/>
+  </g>
+
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+    <text x="48" y="78" font-size="15" font-weight="600" fill="#a99fff" letter-spacing="3">AI AGENTS</text>
+    <text x="48" y="138" font-size="44" font-weight="800" fill="#ffffff">Open CUAK</text>
+    <text x="48" y="186" font-size="44" font-weight="800" fill="#a99fff">Computer Use</text>
+    <text x="48" y="226" font-size="18" fill="#cfcae8">Run AI agents that operate a real browser</text>
+    <g font-size="14" font-weight="600">
+      <rect x="48" y="258" width="94" height="30" rx="15" fill="#ffffff" fill-opacity="0.07" stroke="#7c6cff" stroke-opacity="0.6"/>
+      <text x="95" y="278" text-anchor="middle" fill="#ebe8ff">AI Agents</text>
+      <rect x="152" y="258" width="164" height="30" rx="15" fill="#ffffff" fill-opacity="0.07" stroke="#7c6cff" stroke-opacity="0.6"/>
+      <text x="234" y="278" text-anchor="middle" fill="#ebe8ff">Browser Automation</text>
+      <rect x="326" y="258" width="102" height="30" rx="15" fill="#ffffff" fill-opacity="0.07" stroke="#7c6cff" stroke-opacity="0.6"/>
+      <text x="377" y="278" text-anchor="middle" fill="#ebe8ff">TypeScript</text>
+    </g>
+  </g>
+</svg>

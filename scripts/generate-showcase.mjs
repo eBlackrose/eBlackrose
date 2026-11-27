@@ -66,10 +66,28 @@ const loadFeaturedConfig = async () => {
   return JSON.parse(text);
 };
 
-// Entry: "repo" | "owner/repo" | { name, link?, description? }
+// Entry: "repo" | "owner/repo" | { name, link?, description?, thumbnail? }
+// thumbnail: path relative to the repo root (svg/png/jpg), used instead of GitHub's OG image.
 const normalizeEntry = (entry) => {
-  if (typeof entry === 'string') return { name: entry, link: null, description: null };
-  return { name: entry.name, link: entry.link ?? null, description: entry.description ?? null };
+  if (typeof entry === 'string') return { name: entry, link: null, description: null, thumbnail: null };
+  return {
+    name: entry.name,
+    link: entry.link ?? null,
+    description: entry.description ?? null,
+    thumbnail: entry.thumbnail ?? null,
+  };
+};
+
+const MIME = { svg: 'image/svg+xml', png: 'image/png', jpg: 'image/jpeg', jpeg: 'image/jpeg', webp: 'image/webp' };
+const loadThumbDataUri = async (relPath) => {
+  try {
+    const buf = await readFile(resolve(REPO_ROOT, relPath));
+    const ext = relPath.split('.').pop().toLowerCase();
+    return `data:${MIME[ext] ?? 'application/octet-stream'};base64,${buf.toString('base64')}`;
+  } catch (e) {
+    console.warn(`thumbnail ${relPath}: ${e.message}`);
+    return null;
+  }
 };
 
 const fetchRepo = async (name) => {
@@ -433,8 +451,9 @@ console.log(`Repos: ${repos.map((r) => r.name).join(', ') || '(none)'}`);
 
 const enriched = await Promise.all(
   repos.map(async (repo, idx) => {
+    const thumb = entries[idx].thumbnail;
     const [og, dailyCounts, events] = await Promise.all([
-      fetchOgDataUri(repo.full_name),
+      (thumb ? loadThumbDataUri(thumb) : Promise.resolve(null)).then((d) => d ?? fetchOgDataUri(repo.full_name)),
       fetchDailyCommits(repo.full_name),
       fetchRepoEvents(repo.full_name),
     ]);

@@ -1,3 +1,8 @@
 {
-  "repos": []
+  "repos": [
+    { "name": "Flutter-Whatsapp-bot", "description": "Flutter & Dart WhatsApp bot · based on whatsapp_bot_flutter" },
+    { "name": "Claude-Think", "description": "Let Claude think deeply first · based on Thinking-Claude" },
+    { "name": "ReactNative-Chatgpt", "description": "ChatGPT for React Native · based on react-native-chatgpt" },
+    { "name": "Open-Cuak", "description": "Open computer-use AI agent platform · based on Open CUAK" }
+  ]
 }
